@@ -117,11 +117,7 @@ The official server of Beat Saber Italia! Open for international players too!
 
 ### Russia
 
-#### Beato Saba
-
-Community for Russian speaking players
-
-[Discord](https://discord.gg/5JXRY8z)
+_None yet._
 
 ### Spain
 
